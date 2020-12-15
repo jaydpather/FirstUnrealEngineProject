@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FirstUEProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C24A374B-9138-487F-AAF9-38C5B9DF1C03}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstUEProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FirstUEProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F29E3A72-052A-41B4-A8C8-A4FB1633255D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FirstUEProject">
+      <UniqueIdentifier>{83D3D9B6-69EF-41A4-988E-5817C11B86FA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstUEProject\FirstUEProject.Build.cs">
+      <Filter>Source\FirstUEProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FirstUEProject\FirstUEProject.cpp">
+      <Filter>Source\FirstUEProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstUEProject\FirstUEProject.h">
+      <Filter>Source\FirstUEProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstUEProject\FirstUEProjectGameMode.cpp">
+      <Filter>Source\FirstUEProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstUEProject\FirstUEProjectGameMode.h">
+      <Filter>Source\FirstUEProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstUEProject\FirstUEProjectPawn.cpp">
+      <Filter>Source\FirstUEProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstUEProject\FirstUEProjectPawn.h">
+      <Filter>Source\FirstUEProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstUEProject\FirstUEProjectProjectile.cpp">
+      <Filter>Source\FirstUEProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstUEProject\FirstUEProjectProjectile.h">
+      <Filter>Source\FirstUEProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstUEProject",
+			"Path": "D:\\Github\\FirstUnrealEngineProject\\FirstUEProject\\Source\\FirstUEProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstUEProjectEditor",
+			"Path": "D:\\Github\\FirstUnrealEngineProject\\FirstUEProject\\Source\\FirstUEProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
